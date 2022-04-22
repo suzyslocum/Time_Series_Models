@@ -1,6 +1,7 @@
-# Module 11 Challenge Assignment
+# Using Time Series Models to Analyze Stock Price Corrleation to Search Traffic
 
-## Using Time Series Models to Analyze Stock Price Corrleation to Search Traffic
+*Module 11 Challenge Assignment*
+
 This is a Python application written with Pandas in Google Colab to examine Google Search traffic and stock prices for MercadoLibre, the most popular e-commerce site in Latin America. It uses Pandas to create DataFrames from provided CSV files, and create various graphs to analyze search traffic seasonality. We use this along with stock closing prices to evaluate how the stock prices correlate to the Google Search traffic. HvPlot is used to create interactive graphs to examine the data. We then use a Prophet forecast model to predict and visualize hourly search traffic, and the company's future revenue.
 
 ![Search Trends](/Images/search_trends_wk_of_yr.jpg)
